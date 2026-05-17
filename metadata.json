@@ -1,0 +1,6 @@
+{
+  "name": "Neon Snake Player",
+  "description": "A dark neon aesthetic Music Player and Snake Game combination.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
